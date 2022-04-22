@@ -1,11 +1,16 @@
-# easytodo
-A React Native Todo Application built with Expo CLI for creating a list of activities.
-
 <p align="center">
     <a href="https://github.com/davidmensahedem/easytodo">
         <p align="center">EasyTodo (version 1.0.0)</p>
     </a>
     
+</p>
+
+<p align="center">
+    An application for creating a list of activities.
+</p>
+
+<p align="center">
+    This repository consists of a <strong>React Native Application</strong> built with <strong>Expo CLI</strong> 
 </p>
 
 ## Application features
